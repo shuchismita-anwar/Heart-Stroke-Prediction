@@ -1,6 +1,5 @@
 # Stroke Prediction
 
-## Introduction
 This repository contains a stroke prediction model implemented in Python using various machine learning algorithms. The model is trained on a dataset containing health-related features to predict the likelihood of a stroke. The steps include data preprocessing, handling missing values, oversampling the minority class, model training, and evaluation.
 
 ## Dataset
