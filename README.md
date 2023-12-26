@@ -32,5 +32,5 @@ The accuracy and error rates of each model are visualized using bar charts, prov
 
 ## How to Use
 1. Ensure you have the required Python libraries installed (`numpy`, `pandas`, `matplotlib`, `seaborn`, `imbalanced-learn`, `scikit-learn`).
-2. Run the provided Python script (`stroke_prediction.py`) in your preferred environment.
+2. Run the provided Python script (`PROJECT.py`) in your preferred environment.
 3. The script will load the dataset, preprocess the data, oversample, train the models, and display the evaluation metrics and visualizations.
